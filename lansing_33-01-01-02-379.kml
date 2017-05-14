@@ -1,0 +1,2044 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<name>Rental map</name>
+		<description>Map of properties by rental status</description>
+
+		<Style id="rental">
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	    <Style id="homeOwner">
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/green-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2400 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.297 : FRAZIER TERRENCE and ROBERTHA N</name>
+			<Point>
+				<coordinates>-84.5170571, 42.7555824,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2412 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.334 : JACQUES DANNY D and KAHN JENNIFER N</name>
+			<Point>
+				<coordinates>-84.5167419, 42.755533,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2500 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.368 : CURRIE WILLIAM M</name>
+			<Point>
+				<coordinates>-84.516457, 42.755574,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2510 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.296 : SAMUEL MELISSA</name>
+			<Point>
+				<coordinates>-84.516162, 42.755517,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2520 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.274 : MURPHY ROBERT L and PATRICIA A</name>
+			<Point>
+				<coordinates>-84.5158628, 42.7555719,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2528 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.203 : RUSSELL GLADYS L and</name>
+			<Point>
+				<coordinates>-84.515574, 42.755481,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2600 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.201 : CUTHBERTSON COURTNEY A</name>
+			<Point>
+				<coordinates>-84.515332, 42.755481,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2608 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.201 : KELLOGG CHRISTOPHER M and</name>
+			<Point>
+				<coordinates>-84.5150945, 42.7555854,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2614 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.186 : LINDSTROM DENNIS T and SUSAN M</name>
+			<Point>
+				<coordinates>-84.514864, 42.75548,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2618 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.186 : DELANEY BRENDA M</name>
+			<Point>
+				<coordinates>-84.5146453, 42.755545,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2700 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.201 : HOLMES SANDRA A E</name>
+			<Point>
+				<coordinates>-84.514398, 42.7555516,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2114 POST OAK LANE LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.273 : BROWN RANDY L</name>
+			<Point>
+				<coordinates>-84.515922, 42.756444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2100 POST OAK LANE LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.288 : FERNANDEZ GUSTAVO and CONNIE L</name>
+			<Point>
+				<coordinates>-84.516097, 42.756119,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2511 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.294 : HILLMAN SUSAN J</name>
+			<Point>
+				<coordinates>-84.515841, 42.755985,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2517 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.219 : HANSMANN ZACHARY D and LEIGH</name>
+			<Point>
+				<coordinates>-84.515554, 42.75602,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2601 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.218 : KASTI RODINA</name>
+			<Point>
+				<coordinates>-84.515293, 42.756018,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2607 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.218 : OWENS SCOTT and TARA</name>
+			<Point>
+				<coordinates>-84.515036, 42.756017,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2615 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.218 : WIRICK LINDA J</name>
+			<Point>
+				<coordinates>-84.514777, 42.756015,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2621 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.218 : TOWLER PEYTON J and BINGLE CAROLINE M</name>
+			<Point>
+				<coordinates>-84.514511, 42.756014,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2701 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.219 : SELL CHRISTOPHER and WHITNEY</name>
+			<Point>
+				<coordinates>-84.51426, 42.7559528,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2707 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.219 : GARCIA BERTA A</name>
+			<Point>
+				<coordinates>-84.514, 42.7559673,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2713 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.220 : DANBY TANYA M</name>
+			<Point>
+				<coordinates>-84.513735, 42.75601,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2719 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.203 : WALKER PATRICK</name>
+			<Point>
+				<coordinates>-84.513484, 42.756008,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2801 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.203 : JOBLONSKI EDWARD D</name>
+			<Point>
+				<coordinates>-84.513242, 42.7560069,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2807 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.203 : BOES COLIN and ALESSA</name>
+			<Point>
+				<coordinates>-84.5129989, 42.7560069,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2813 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.203 : CONTOMPASIS GEORGE P and DOROTHY M</name>
+			<Point>
+				<coordinates>-84.5127343, 42.7559362,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2819 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.203 : HEAD DAVID and MARY</name>
+			<Point>
+				<coordinates>-84.512504, 42.756005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2825 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.203 : COOK RAYMOND A and JEWELL E</name>
+			<Point>
+				<coordinates>-84.5122774, 42.7559445,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2831 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.216 : BOYNTON GARY and EVELYN</name>
+			<Point>
+				<coordinates>-84.511999, 42.755985,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2841 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.255 : CLIMER JAMES K and</name>
+			<Point>
+				<coordinates>-84.511562, 42.7559169,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2107 BOLLEY DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.225 : DEFORD CHRISTOPHER J and BRENDA C</name>
+			<Point>
+				<coordinates>-84.5112767, 42.7561927,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2113 BOLLEY DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.228 : PAPPAS JULIA</name>
+			<Point>
+				<coordinates>-84.5116357, 42.7562791,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2836 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.253 : WIRT CHRISTOPHERM and DANIELLE M</name>
+			<Point>
+				<coordinates>-84.511776, 42.756452,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2824 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.238 : DEINES TIM and CERVELLI DONNA</name>
+			<Point>
+				<coordinates>-84.512152, 42.756359,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2818 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.201 : WALKER THOMAS L and ROSALIE</name>
+			<Point>
+				<coordinates>-84.512419, 42.756373,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#rental</styleUrl>
+			<name>2812 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.217 : PILOSKE EDWARD J -REVOC TRUST</name>
+			<Point>
+				<coordinates>-84.5127184, 42.7564555,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2806 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.217 : MORGAN CHARLIE JR and MELODY A</name>
+			<Point>
+				<coordinates>-84.51294, 42.756373,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2800 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.217 : SMITH MARY ELLEN</name>
+			<Point>
+				<coordinates>-84.513207, 42.756373,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2718 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.217 : BARA DAVID C and JENNIFER J</name>
+			<Point>
+				<coordinates>-84.51347, 42.756373,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2712 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.217 : MCALVEY KEVIN and RACHEL B</name>
+			<Point>
+				<coordinates>-84.513728, 42.756374,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#rental</styleUrl>
+			<name>2700 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.217 : THUMMA JANELLE and MYERS CORY</name>
+			<Point>
+				<coordinates>-84.5142429, 42.756377,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2620 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.217 : WILLMARTH RONALD and ABIGAIL L</name>
+			<Point>
+				<coordinates>-84.514505, 42.756378,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2612 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.217 : KRAFT TRACY B and WOOD JOAN E</name>
+			<Point>
+				<coordinates>-84.51477, 42.75638,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2606 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.217 : BROUGHMAN GARY T and MARY L</name>
+			<Point>
+				<coordinates>-84.5150809, 42.7564728,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2600 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.217 : WITKOWSKI DARIN and KRISTINE R</name>
+			<Point>
+				<coordinates>-84.515287, 42.756383,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2400 KERRY ST LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.258 : PUSKAR MATHEW C and KATHERINE M</name>
+			<Point>
+				<coordinates>-84.5127824, 42.7586712,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2807 GREENBRIAR AVE LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.205 : INGRAHAM JOHN A and PAMELA</name>
+			<Point>
+				<coordinates>-84.5124979, 42.758695,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2813 GREENBRIAR AVE LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.206 : HAMLIN JEFFREY W and JOLEE J</name>
+			<Point>
+				<coordinates>-84.512258, 42.758697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2819 GREENBRIAR AVE LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.207 : LUE DAVID and LUC MUI</name>
+			<Point>
+				<coordinates>-84.512019, 42.758697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2825 GREENBRIAR AVE LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.208 : GINEVAN KATHE M</name>
+			<Point>
+				<coordinates>-84.51178, 42.758698,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2831 GREENBRIAR AVE LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.209 : MEDLOCK BARBARA J-TRUST</name>
+			<Point>
+				<coordinates>-84.5115585, 42.7586865,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2837 GREENBRIAR AVE LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.209 : WYNIA NATHANIEL J</name>
+			<Point>
+				<coordinates>-84.5113125, 42.7586593,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2843 GREENBRIAR AVE LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.210 : LAM ALVIN W H</name>
+			<Point>
+				<coordinates>-84.5110649, 42.7584523,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2901 GREENBRIAR AVE LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.227 : OBERG JOYCE A</name>
+			<Point>
+				<coordinates>-84.510828, 42.758698,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2907 GREENBRIAR AVE LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.228 : MONTNEY MATTHEW R and KAITLIN M</name>
+			<Point>
+				<coordinates>-84.5105577, 42.7586403,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2915 GREENBRIAR AVE LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.229 : SCHULTZ MICHELE M</name>
+			<Point>
+				<coordinates>-84.510309, 42.7587,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2910 GREENBRIAR AVE LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.224 : BEAUREGARD DARIN and BECKY</name>
+			<Point>
+				<coordinates>-84.510197, 42.758166,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2320 VASSAR DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.259 : JUSTICE CHRISTY</name>
+			<Point>
+				<coordinates>-84.510495, 42.758169,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2308 VASSAR DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.281 : COLLINSON JAMES B and MARCELLA</name>
+			<Point>
+				<coordinates>-84.5107348, 42.7578878,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2300 VASSAR DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.288 : KLUIENBERG CALLIE</name>
+			<Point>
+				<coordinates>-84.5104528, 42.757713,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2222 VASSAR DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.274 : PETERSON JACQUELINE</name>
+			<Point>
+				<coordinates>-84.510201, 42.757533,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2214 VASSAR DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.262 : DEADMAN RICHARD W and SUSAN M</name>
+			<Point>
+				<coordinates>-84.5103047, 42.7573215,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2208 VASSAR DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.260 : ZUSSMAN KELLI L</name>
+			<Point>
+				<coordinates>-84.5104484, 42.757079,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2200 VASSAR DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.229 : OHREN PETER J and</name>
+			<Point>
+				<coordinates>-84.509992, 42.756979,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2130 VASSAR DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.220 : GOMMESEN DONALD R and KATHLEEN S</name>
+			<Point>
+				<coordinates>-84.5099, 42.756801,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2124 VASSAR DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.219 : KINDIG DAVID R and</name>
+			<Point>
+				<coordinates>-84.5098189, 42.756607,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2118 VASSAR DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.207 : STANTON DENISE M</name>
+			<Point>
+				<coordinates>-84.509749, 42.75641,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2112 VASSAR DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.203 : BELTRAN JOHN R and MARIA D</name>
+			<Point>
+				<coordinates>-84.509698, 42.756211,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2933 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.303 : DEAN DOUGLAS M and EDYTH I</name>
+			<Point>
+				<coordinates>-84.5097223, 42.7557191,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2000 VASSAR DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.251 : DOYLE MAUREEN G</name>
+			<Point>
+				<coordinates>-84.5097069, 42.7555108,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#rental</styleUrl>
+			<name>2938 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.208 : FOX LAND HOLDINGS L L C</name>
+			<Point>
+				<coordinates>-84.509388, 42.755472,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2001 KINGSWOOD DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.253 : ERNSBERGER THOMAS R SR</name>
+			<Point>
+				<coordinates>-84.5088819, 42.7555197,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2941 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.271 : JAMES SEMONE M</name>
+			<Point>
+				<coordinates>-84.5092511, 42.7559282,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2115 KINGSWOOD DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.332 : ARNOLD JANE</name>
+			<Point>
+				<coordinates>-84.5092238, 42.7562486,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2125 KINGSWOOD DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.276 : BELTZ MITCHELL and DONNA</name>
+			<Point>
+				<coordinates>-84.509504, 42.756787,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2130 KINGSWOOD DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.305 : HATCH JOYCE L</name>
+			<Point>
+				<coordinates>-84.509169, 42.756898,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2126 KINGSWOOD DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.388 : CHAPMAN CHRISTOPHER M</name>
+			<Point>
+				<coordinates>-84.5089538, 42.7567545,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#rental</styleUrl>
+			<name>2120 KINGSWOOD DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.182 : BERRY MINDY</name>
+			<Point>
+				<coordinates>-84.508787, 42.756486,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2114 KINGSWOOD DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.179 : THOMISON KELLY and BARKER JOYCE</name>
+			<Point>
+				<coordinates>-84.508724, 42.756288,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2100 KINGSWOOD DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.233 : UZCATEGUI ALONSO J</name>
+			<Point>
+				<coordinates>-84.5086354, 42.755877,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2012 KINGSWOOD DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.247 : VIVIAN DANIEL R and</name>
+			<Point>
+				<coordinates>-84.5085445, 42.7555988,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2000 KINGSWOOD DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.193 : BURNS KEVIN and ANN</name>
+			<Point>
+				<coordinates>-84.508545, 42.755396,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2923 GREENBRIAR AVE LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.230 : ESTEE DENISE A</name>
+			<Point>
+				<coordinates>-84.510048, 42.758702,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>3001 GREENBRIAR AVE LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.284 : HOUGHTALING EDWARD E and CONSTANCE L</name>
+			<Point>
+				<coordinates>-84.509465, 42.758559,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>3017 GREENBRIAR AVE LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.176 : WIKTORSKI KYLE and MCCAIN LINDSEY</name>
+			<Point>
+				<coordinates>-84.509259, 42.758093,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>3035 GREENBRIAR AVE LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.357 : PATTERSON RONALD I JR</name>
+			<Point>
+				<coordinates>-84.50899, 42.757294,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>3038 GREENBRIAR AVE LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.324 : WILSON CHARLES A and LAVERNE S</name>
+			<Point>
+				<coordinates>-84.5093122, 42.7575521,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>3032 GREENBRIAR AVE LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.288 : PARISIAN MICHAEL T and MARY JO</name>
+			<Point>
+				<coordinates>-84.509638, 42.757329,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>3024 GREENBRIAR AVE LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.188 : GULKER BENJAMIN</name>
+			<Point>
+				<coordinates>-84.509687, 42.757629,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>3018 GREENBRIAR AVE LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.217 : SURGENER BRIAN W and</name>
+			<Point>
+				<coordinates>-84.5095242, 42.7579446,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>3010 GREENBRIAR AVE LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.292 : SCOVILL REBECCA G V</name>
+			<Point>
+				<coordinates>-84.509877, 42.758155,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#rental</styleUrl>
+			<name>STREET ROW LANSING, MI  48912 : Single Family : EXEMPT - REAL : 3.435 : MI DEPART OF TRANSPORTATION</name>
+			<Point>
+				<coordinates>-84.54987, 42.726573,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2832 GREENBRIAR AVE LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.225 : GUENTHER TIMOTHY R and DEBRA</name>
+			<Point>
+				<coordinates>-84.511589, 42.758238,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2314 BOLLEY DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.191 : DINE CYNTHIA RM</name>
+			<Point>
+				<coordinates>-84.511583, 42.75804,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2300 BOLLEY DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.210 : PORCO MARCELLO and DOMENICA</name>
+			<Point>
+				<coordinates>-84.511524, 42.757683,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2226 BOLLEY DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.211 : STARK THOMAS and MARTHA</name>
+			<Point>
+				<coordinates>-84.511488, 42.757499,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2220 BOLLEY DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.205 : COLE LAWRENCE R and RUTH A</name>
+			<Point>
+				<coordinates>-84.5118124, 42.7572963,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2208 BOLLEY DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.211 : MOSHER LAURA B</name>
+			<Point>
+				<coordinates>-84.5116249, 42.7568689,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2200 BOLLEY DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.213 : CARLSON MATTHEW J and KIMBERLY R</name>
+			<Point>
+				<coordinates>-84.5111979, 42.756789,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2126 BOLLEY DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.196 : MACHTEL DAVID F JR and NINA</name>
+			<Point>
+				<coordinates>-84.5111079, 42.7566289,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2120 BOLLEY DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.210 : BAKER NANCY JO</name>
+			<Point>
+				<coordinates>-84.5113755, 42.7563845,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2114 BOLLEY DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.206 : SCHRAM TERI L</name>
+			<Point>
+				<coordinates>-84.510898, 42.756293,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2108 BOLLEY DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.200 : FLORES RONALD T and IRMA I</name>
+			<Point>
+				<coordinates>-84.510835, 42.756113,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2901 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.253 : RIPLEY DAVID</name>
+			<Point>
+				<coordinates>-84.5107938, 42.7559163,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2915 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.228 : HASKELL KYLE and JULIE L</name>
+			<Point>
+				<coordinates>-84.5103301, 42.7559369,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2107 VASSAR DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.192 : NEWMAN BRUCE G and KAY I</name>
+			<Point>
+				<coordinates>-84.5103373, 42.756134,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2115 VASSAR DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.175 : ROSS CONSTANCE Y</name>
+			<Point>
+				<coordinates>-84.510402, 42.756273,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2121 VASSAR DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.189 : HOLDINGS LEIGH ANN</name>
+			<Point>
+				<coordinates>-84.510469, 42.756436,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2127 VASSAR DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.211 : SCHAEFER EMILY</name>
+			<Point>
+				<coordinates>-84.5105274, 42.7566494,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2201 VASSAR DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.186 : KLEIN JEFFREY D and SHERI J</name>
+			<Point>
+				<coordinates>-84.510666, 42.756769,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2217 VASSAR DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.191 : JERIS ANDREA</name>
+			<Point>
+				<coordinates>-84.5108727, 42.7573256,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2223 VASSAR DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.190 : WHITE CAROL</name>
+			<Point>
+				<coordinates>-84.510991, 42.757468,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2301 VASSAR DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.192 : BARD ALLEN E and PAULA J</name>
+			<Point>
+				<coordinates>-84.5109283, 42.7576392,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2309 VASSAR DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.192 : GROSSBERGER NATALIE A and NEIL A and</name>
+			<Point>
+				<coordinates>-84.510956, 42.7578211,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2834 GREENBRIAR AVE LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.241 : LARAMIE SHARON L</name>
+			<Point>
+				<coordinates>-84.511114, 42.758235,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2000 AUTUMN LANE LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.245 : SAIDY SAMBA and BRANDI D</name>
+			<Point>
+				<coordinates>-84.5136089, 42.7555262,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2800 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.211 : BARTLETT JANET A</name>
+			<Point>
+				<coordinates>-84.513317, 42.755464,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2808 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.192 : BOWERS E JOHN</name>
+			<Point>
+				<coordinates>-84.5130836, 42.7557527,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2820 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.200 : GRESCOWLE DEBORAH K</name>
+			<Point>
+				<coordinates>-84.5125983, 42.7555504,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2826 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.280 : PURVES DENICE K</name>
+			<Point>
+				<coordinates>-84.5124542, 42.7555894,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2840 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.276 : MANNAUSA ROBERT and JUDITH</name>
+			<Point>
+				<coordinates>-84.5117549, 42.755472,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#rental</styleUrl>
+			<name>2848 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.197 : LAUDENSLAGE TYLER</name>
+			<Point>
+				<coordinates>-84.511473, 42.755469,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2906 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.196 : PEARSON WILLIAM H and MARGARET J</name>
+			<Point>
+				<coordinates>-84.5107894, 42.755526,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2912 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.195 : MUZAMBI TERRENCE T and DODD FELICIA M</name>
+			<Point>
+				<coordinates>-84.510513, 42.755472,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2001 VASSAR DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.241 : CORDEN RONALD A and SANDRA K</name>
+			<Point>
+				<coordinates>-84.5101825, 42.7554678,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2101 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.288 : FRYAER KIMBERLY M</name>
+			<Point>
+				<coordinates>-84.5202599, 42.757295,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2201 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.231 : PUCHALA BENJAMIN J and RUTHANNE K</name>
+			<Point>
+				<coordinates>-84.51966, 42.7569469,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2211 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.263 : PULICE THOMAS and NORMA L-TRUST</name>
+			<Point>
+				<coordinates>-84.519364, 42.756952,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#rental</styleUrl>
+			<name>2217 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.263 : CLAYTON BURCH and GLOVER MARTHA</name>
+			<Point>
+				<coordinates>-84.519069, 42.756949,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2225 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.232 : LAING KENNETH and JOYCE</name>
+			<Point>
+				<coordinates>-84.5187639, 42.7568977,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2309 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.248 : ZARKA GEORGE</name>
+			<Point>
+				<coordinates>-84.5182264, 42.7569109,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2317 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.441 : PRATT HENRY C and MARGARET E</name>
+			<Point>
+				<coordinates>-84.5178415, 42.7568959,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2324 NORTHAMPTON WAY LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.234 : LENHARD ANN MARIE</name>
+			<Point>
+				<coordinates>-84.5177802, 42.7573309,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2312 NORTHAMPTON WAY LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.248 : ESCH ANDREW P and KRISTIN L</name>
+			<Point>
+				<coordinates>-84.51819, 42.757317,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2306 NORTHAMPTON WAY LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.232 : HIBNER DEREK R and KIERSTYN J</name>
+			<Point>
+				<coordinates>-84.518483, 42.75732,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2300 NORTHAMPTON WAY LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.232 : SAMBAER TODD J and JILL</name>
+			<Point>
+				<coordinates>-84.5187739, 42.757322,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#rental</styleUrl>
+			<name>2216 NORTHAMPTON WAY LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.263 : GANDHI MARIA K</name>
+			<Point>
+				<coordinates>-84.519071, 42.7573239,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2208 NORTHAMPTON WAY LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.263 : DROZ ALAN Y</name>
+			<Point>
+				<coordinates>-84.5193649, 42.7573269,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2202 NORTHAMPTON WAY LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.232 : KILPATRICK ANDREW K and</name>
+			<Point>
+				<coordinates>-84.5196519, 42.757326,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2142 NORTHAMPTON WAY LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.253 : SEMEN RUDOLF and LOIS</name>
+			<Point>
+				<coordinates>-84.5200114, 42.757359,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2318 MEADOWCROFT DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.269 : WILSON MARY H</name>
+			<Point>
+				<coordinates>-84.518531, 42.758269,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2310 MEADOWCROFT DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.269 : MIANK TIMOTHY and</name>
+			<Point>
+				<coordinates>-84.518535, 42.758026,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2300 MEADOWCROFT DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.269 : LUX AMY E</name>
+			<Point>
+				<coordinates>-84.51854, 42.757784,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2313 NORTHAMPTON WAY LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.248 : CABALLERO OSCAR and MUELLER TINA A</name>
+			<Point>
+				<coordinates>-84.5182298, 42.7575918,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2321 NORTHAMPTON WAY LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.318 : TOTH DEANNA L-TRUSTEE</name>
+			<Point>
+				<coordinates>-84.517807, 42.757854,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2327 NORTHAMPTON WAY LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.449 : CARY STEPHEN R II and SARAH B</name>
+			<Point>
+				<coordinates>-84.517424, 42.7577799,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2333 NORTHAMPTON WAY LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.390 : SEDICK JAMES R and MARY MARTHA</name>
+			<Point>
+				<coordinates>-84.517165, 42.757542,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2339 NORTHAMPTON WAY LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.315 : HEINLEIN GARY and GAYLE M</name>
+			<Point>
+				<coordinates>-84.517099, 42.757248,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2200 NORTHAMPTON WAY LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.284 : KARPINSKI CHARLES and WENDIE</name>
+			<Point>
+				<coordinates>-84.517191, 42.756924,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2413 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.239 : PUENTE JOSPEH S JR and</name>
+			<Point>
+				<coordinates>-84.5169552, 42.7566953,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2201 POST OAK LANE LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.282 : FALK ARTHUR L and JUDITH L</name>
+			<Point>
+				<coordinates>-84.5165727, 42.7569392,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2221 POST OAK LANE LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.248 : HAKVONGSA KEOVIENGKNONE</name>
+			<Point>
+				<coordinates>-84.516613, 42.75721,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2229 POST OAK LANE LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.248 : EDMINSTER NANCY S</name>
+			<Point>
+				<coordinates>-84.516606, 42.757428,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2237 POST OAK LANE LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.255 : BABCOCK C PATRICK and PATRICIA</name>
+			<Point>
+				<coordinates>-84.516599, 42.757644,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2305 POST OAK LANE LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.301 : HEITZMAN EDWARD A and LOUANN M</name>
+			<Point>
+				<coordinates>-84.516653, 42.757846,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2315 POST OAK LANE LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.303 : BEDFORD ALLAN C</name>
+			<Point>
+				<coordinates>-84.516783, 42.758017,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#rental</styleUrl>
+			<name>2323 POST OAK LANE LANSING, MI  48912 : Single Family : EXEMPT - REAL : 0.311 : ASBURY UNITED METHODIST CHURCH</name>
+			<Point>
+				<coordinates>-84.5162679, 42.7575735,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2400 POST OAK LANE LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.220 : STEVENS MARK and THERESA A</name>
+			<Point>
+				<coordinates>-84.517257, 42.758213,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2326 BARRITT ST LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.248 : SHEPARD JOSHUA and ASHLEIGH</name>
+			<Point>
+				<coordinates>-84.517551, 42.758203,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2320 BARRITT ST LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.248 : HOANG PAUL and NANCY</name>
+			<Point>
+				<coordinates>-84.517848, 42.7582049,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2312 BARRITT ST LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.248 : GOVER DIANA G</name>
+			<Point>
+				<coordinates>-84.518145, 42.7582049,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#rental</styleUrl>
+			<name>2001 BARRITT ST LANSING, MI  48912 : Duplex : RESIDENTIAL : 0.236 : SUTHERLAND DEBORAH J</name>
+			<Point>
+				<coordinates>-84.522646, 42.758224,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#rental</styleUrl>
+			<name>2011 BARRITT ST LANSING, MI  48912 : Duplex : RESIDENTIAL : 0.250 : FUNK STEPHEN</name>
+			<Point>
+				<coordinates>-84.5223199, 42.758224,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2019 BARRITT ST LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.256 : FARNHAM BRIAN</name>
+			<Point>
+				<coordinates>-84.5218993, 42.7580626,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2107 BARRITT ST LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.458 : HARMON LEE ANNE</name>
+			<Point>
+				<coordinates>-84.521666, 42.758602,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2111 BARRITT ST LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.427 : ANTON JOHN and JEAN</name>
+			<Point>
+				<coordinates>-84.52139, 42.758683,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2117 BARRITT ST LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.312 : SLATER HAROLD C and ARLENE E</name>
+			<Point>
+				<coordinates>-84.521042, 42.758717,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2125 BARRITT ST LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.252 : LEYDORF NICHOLAS A and BARAILY ANJULI</name>
+			<Point>
+				<coordinates>-84.520709, 42.758739,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2131 BARRITT ST LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.225 : THURSTON WILLIAM J and DIANNE N</name>
+			<Point>
+				<coordinates>-84.520469, 42.758505,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2139 BARRITT ST LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.224 : SMITH CAROLYN L</name>
+			<Point>
+				<coordinates>-84.520127, 42.758735,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2143 BARRITT ST LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.224 : REGAL ALFREDO R and TRINIDAD</name>
+			<Point>
+				<coordinates>-84.5198489, 42.758732,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2201 BARRITT ST LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.225 : HUNDT LANCE R and MEGAN E</name>
+			<Point>
+				<coordinates>-84.5196238, 42.7584951,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2211 BARRITT ST LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.211 : JOHNSON VERNON L and</name>
+			<Point>
+				<coordinates>-84.519295, 42.758731,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#rental</styleUrl>
+			<name>2217 BARRITT ST LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.226 : LORENZ LAMPINEN DENA and LORENZ KATHR</name>
+			<Point>
+				<coordinates>-84.5190908, 42.7584882,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2301 BARRITT ST LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.211 : HALL RAMONA R and</name>
+			<Point>
+				<coordinates>-84.5188245, 42.7586982,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2307 BARRITT ST LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.226 : HAMPTON-YARBOROUGH TRACEY H</name>
+			<Point>
+				<coordinates>-84.518477, 42.758728,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2311 BARRITT ST LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.211 : WISNIEWSKI MICHAEL and VOGEL SAMANTHA</name>
+			<Point>
+				<coordinates>-84.518203, 42.758727,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2317 BARRITT ST LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.226 : EASTON ZANA E and PHYLLIS J</name>
+			<Point>
+				<coordinates>-84.517932, 42.758726,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2323 BARRITT ST LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.211 : MCCOLLUM LON E and RODRIGUES RACHEL</name>
+			<Point>
+				<coordinates>-84.517667, 42.758726,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2331 BARRITT ST LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.227 : DANOWITZ JAMES L and MARY J</name>
+			<Point>
+				<coordinates>-84.5174602, 42.7586919,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2330 POST OAK LANE LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.288 : NUNN JOSHUA P and LAUREN E</name>
+			<Point>
+				<coordinates>-84.517086, 42.758724,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2022 N FAIRVIEW AVE LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.310 : BEARD ROBERT A and LYNN A-TRUSTEE</name>
+			<Point>
+				<coordinates>-84.521119, 42.7558999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2010 N FAIRVIEW AVE LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.228 : GUILFOYLE MATTHEW M and</name>
+			<Point>
+				<coordinates>-84.521274, 42.755649,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2000 N FAIRVIEW AVE LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.239 : THE BARBARA THIAS and GEORGE A TRUST</name>
+			<Point>
+				<coordinates>-84.521314, 42.755428,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2112 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.464 : FEIGHT THEODORE J and KATHLEEN D</name>
+			<Point>
+				<coordinates>-84.5208248, 42.7557755,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2120 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.274 : KNOX DONALD G and LORI J</name>
+			<Point>
+				<coordinates>-84.520548, 42.755561,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2126 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.265 : DARGA KENNETH J and SANDRA L</name>
+			<Point>
+				<coordinates>-84.520264, 42.755528,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2132 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.249 : GILES PETER and JACQUELINE</name>
+			<Point>
+				<coordinates>-84.5199857, 42.7557965,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2200 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.241 : RHEAUME MARK A and</name>
+			<Point>
+				<coordinates>-84.5196869, 42.7557806,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#rental</styleUrl>
+			<name>2210 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.279 : SKAATES MARTIN</name>
+			<Point>
+				<coordinates>-84.519403, 42.755503,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2216 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.217 : WASZAK ROBERT M and MARTHA S</name>
+			<Point>
+				<coordinates>-84.519126, 42.7555801,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2224 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.248 : BUTLER ROBERT and KATRINA</name>
+			<Point>
+				<coordinates>-84.518809, 42.755502,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2300 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.248 : THE THOMAS W GILES TRUST</name>
+			<Point>
+				<coordinates>-84.5185574, 42.7555737,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#rental</styleUrl>
+			<name>2310 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.279 : STIMAC JOSEPH J</name>
+			<Point>
+				<coordinates>-84.518197, 42.7555,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2318 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.217 : KING JONATHAN and BONNIE</name>
+			<Point>
+				<coordinates>-84.517898, 42.755499,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2001 N HAYFORD AVE LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.279 : WHITE RONALD T and MICHEL L</name>
+			<Point>
+				<coordinates>-84.5173582, 42.7554967,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2100 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.269 : FENTON MARSHA J-TRUST</name>
+			<Point>
+				<coordinates>-84.5207181, 42.7570944,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2100 NORTHAMPTON WAY LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.239 : GUYSKY DANIEL T and AMY E</name>
+			<Point>
+				<coordinates>-84.5210646, 42.7570151,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2001 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.269 : SMITH JAMES R and MARY C</name>
+			<Point>
+				<coordinates>-84.5212449, 42.756832,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2013 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.239 : HAKOPIAN DAVID K</name>
+			<Point>
+				<coordinates>-84.521082, 42.7566028,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2021 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.230 : WILCOX ROBERT J and EDITH M</name>
+			<Point>
+				<coordinates>-84.520814, 42.75644,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2101 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.209 : BODIFORD EDWARD G and MARY E</name>
+			<Point>
+				<coordinates>-84.52063, 42.756288,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2109 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.208 : RAY JAMES and JANET R</name>
+			<Point>
+				<coordinates>-84.5204537, 42.7561462,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2117 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.277 : CLIFFORD JAMES W and KATHRYN A</name>
+			<Point>
+				<coordinates>-84.520146, 42.7561,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2123 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.220 : GIANIODIS MATTHEW D and EILEEN C</name>
+			<Point>
+				<coordinates>-84.5199928, 42.7557973,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2201 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.241 : WALSH MICHAEL and ARDENA</name>
+			<Point>
+				<coordinates>-84.5196, 42.756051,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2209 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.241 : RUIGH ROBERT and STEPHENS ZAYDA</name>
+			<Point>
+				<coordinates>-84.519322, 42.756049,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2215 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.241 : EMERY RONALD W and</name>
+			<Point>
+				<coordinates>-84.519045, 42.756047,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2223 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.241 : HARTY CHRISTOPHER A and JENNIFER M</name>
+			<Point>
+				<coordinates>-84.5188216, 42.7559808,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2301 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.241 : WOHLFERT TYLER</name>
+			<Point>
+				<coordinates>-84.5185385, 42.7559817,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2309 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.241 : BARLETT TRISHA L</name>
+			<Point>
+				<coordinates>-84.5182603, 42.7560115,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2315 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.241 : PINCKNEY VERGIL</name>
+			<Point>
+				<coordinates>-84.517937, 42.756041,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2321 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.228 : MICHELS JOHN J</name>
+			<Point>
+				<coordinates>-84.517666, 42.756039,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2327 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.212 : IHA SEIKICHI and IHA UTO SUE and</name>
+			<Point>
+				<coordinates>-84.5174544, 42.7559959,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2401 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.277 : SPAGNUOLO PETER J and RUTH ANN</name>
+			<Point>
+				<coordinates>-84.517135, 42.75603,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#rental</styleUrl>
+			<name>2101 POST OAK LANE LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.211 : HEDLEY DOUGLAS J and LUCILLE A</name>
+			<Point>
+				<coordinates>-84.516668, 42.756232,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2420 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.229 : SERNICK LARRY M and CATHERINE</name>
+			<Point>
+				<coordinates>-84.516597, 42.75645,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2410 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.204 : DERENGOSKI ROBERT T and VICKIE L</name>
+			<Point>
+				<coordinates>-84.517009, 42.756426,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2400 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.238 : KNOY THOMAS and PANDORA</name>
+			<Point>
+				<coordinates>-84.5173445, 42.7566952,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2326 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.240 : BARKYOUMB FAMILY REVOC LIV TRUST</name>
+			<Point>
+				<coordinates>-84.517604, 42.756404,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2318 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.239 : SMYKA PHILIP J and</name>
+			<Point>
+				<coordinates>-84.517899, 42.756406,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2300 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.224 : REIN ETHAN and ROCHELLE R</name>
+			<Point>
+				<coordinates>-84.518486, 42.75641,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2226 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.230 : MIELOCK DELORES</name>
+			<Point>
+				<coordinates>-84.518776, 42.756412,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2218 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.254 : WADE ERIC and SMITH CATHY</name>
+			<Point>
+				<coordinates>-84.519082, 42.756414,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2200 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.264 : WELCH GREGORY L and KATRINA</name>
+			<Point>
+				<coordinates>-84.519708, 42.756416,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2134 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.300 : HELLER PATRICK A and PAMELA M</name>
+			<Point>
+				<coordinates>-84.5199846, 42.7567368,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2126 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.297 : STERK CALVIN J and DEVENTER PATRICIA</name>
+			<Point>
+				<coordinates>-84.520361, 42.756608,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2120 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.252 : WALKER PATRICIA L</name>
+			<Point>
+				<coordinates>-84.5205361, 42.7568647,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#rental</styleUrl>
+			<name>2000 NORTHAMPTON WAY LANSING, MI  48912 : Duplex : RESIDENTIAL : 0.310 : MCCONNELL RONNIE B and GAIL E</name>
+			<Point>
+				<coordinates>-84.522584, 42.756568,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#rental</styleUrl>
+			<name>2108 WOOD ST LANSING, MI  48912 : Duplex : RESIDENTIAL : 0.275 : HALL RAMONA R</name>
+			<Point>
+				<coordinates>-84.522584, 42.756333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#rental</styleUrl>
+			<name>2016 WOOD ST LANSING, MI  48912 : Duplex : RESIDENTIAL : 0.275 : KW VENTURES L L C</name>
+			<Point>
+				<coordinates>-84.522591, 42.755891,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#rental</styleUrl>
+			<name>2008 WOOD ST LANSING, MI  48912 : Duplex : RESIDENTIAL : 0.275 : SPAGNUOLO ANTONIO M and LUCIA</name>
+			<Point>
+				<coordinates>-84.522592, 42.75567,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#rental</styleUrl>
+			<name>2000 WOOD ST LANSING, MI  48912 : Duplex : RESIDENTIAL : 0.277 : CHENG JIANCONG</name>
+			<Point>
+				<coordinates>-84.522595, 42.755454,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2001 N FAIRVIEW AVE LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.288 : EHRLICH JONATHAN M and BETHANY S</name>
+			<Point>
+				<coordinates>-84.522059, 42.755474,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2017 N FAIRVIEW AVE LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.383 : KUIPER ROSALINE L</name>
+			<Point>
+				<coordinates>-84.522009, 42.755963,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#rental</styleUrl>
+			<name>2016 TULANE DR LANSING, MI  48912 : Single Family : EXEMPT - REAL : 0.339 : WOODVIEW CHURCH OF THE</name>
+			<Point>
+				<coordinates>-84.5215088, 42.7563355,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2000 TULANE DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.358 : CARTER PHILLIP L and YVONNE I</name>
+			<Point>
+				<coordinates>-84.521762, 42.756588,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2016 NORTHAMPTON WAY LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.325 : MITCHELL  MIRIAM E</name>
+			<Point>
+				<coordinates>-84.522119, 42.756473,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#rental</styleUrl>
+			<name>2208 WOOD ST LANSING, MI  48912 : Apartment : RESIDENTIAL : 0.258 : CHAN CHEE T and GENGEN C</name>
+			<Point>
+				<coordinates>-84.522575, 42.757192,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#rental</styleUrl>
+			<name>2001 NORTHAMPTON WAY LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.310 : CALABRASE ROSE M</name>
+			<Point>
+				<coordinates>-84.522577, 42.756966,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2017 NORTHAMPTON WAY LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.298 : HARVEY JOHN R and JANICE M</name>
+			<Point>
+				<coordinates>-84.5220381, 42.7568361,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2025 NORTHAMPTON WAY LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.298 : GREEN CASSANDRA  R</name>
+			<Point>
+				<coordinates>-84.52193, 42.7571889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2031 NORTHAMPTON WAY LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.275 : MCATTEE MICHELLE L</name>
+			<Point>
+				<coordinates>-84.521698, 42.7572959,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2127 NORTHAMPTON WAY LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.311 : REEMSNYDER KEITH L and DEBRA J</name>
+			<Point>
+				<coordinates>-84.520606, 42.757774,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2201 NORTHAMPTON WAY LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.248 : STENSKE THOMAS G and SANDRA F</name>
+			<Point>
+				<coordinates>-84.519639, 42.757847,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2301 MEADOWCROFT DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.269 : ROLLIS MARILYN</name>
+			<Point>
+				<coordinates>-84.5191931, 42.757776,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2311 MEADOWCROFT DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.269 : MOORE DERRICK S and BELITA E</name>
+			<Point>
+				<coordinates>-84.5191738, 42.758016,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2319 MEADOWCROFT DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.269 : BROGAN CASSIE S and CHRISTOPER</name>
+			<Point>
+				<coordinates>-84.5192647, 42.7582793,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2200 BARRITT ST LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.248 : JOHNSON DOUGLAS and KATHERINE</name>
+			<Point>
+				<coordinates>-84.5196827, 42.7582962,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2132 BARRITT ST LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.253 : GRABAREK JOSHUA and ALICIA</name>
+			<Point>
+				<coordinates>-84.520242, 42.75821,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#rental</styleUrl>
+			<name>2126 BARRITT ST LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.251 : PANEK PHYLLIS</name>
+			<Point>
+				<coordinates>-84.520532, 42.758213,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2118 BARRITT ST LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.259 : DEMARCO DAVID G and CAROLE M</name>
+			<Point>
+				<coordinates>-84.5208737, 42.7582417,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2110 BARRITT ST LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.267 : KNOWLES CODY</name>
+			<Point>
+				<coordinates>-84.521036, 42.758058,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2100 BARRITT ST LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.247 : VELAZQUEZ FRANCISCO</name>
+			<Point>
+				<coordinates>-84.521276, 42.757943,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2020 BARRITT ST LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.289 : LOPES JOSE P and STEPHANIE S</name>
+			<Point>
+				<coordinates>-84.521825, 42.757739,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#rental</styleUrl>
+			<name>2000 BARRITT ST LANSING, MI  48912 : Duplex : RESIDENTIAL : 0.270 : STEWART CHRISTOPHER</name>
+			<Point>
+				<coordinates>-84.522552, 42.757778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#rental</styleUrl>
+			<name>2216 WOOD ST LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.225 : SAFFADY SHIRLEY K</name>
+			<Point>
+				<coordinates>-84.523065, 42.7573826,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2500 DARIEN DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.284 : JOHNSON BARBARA A</name>
+			<Point>
+				<coordinates>-84.515896, 42.757347,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2218 POST OAK LANE LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.239 : NGUYEN DANG DUC and</name>
+			<Point>
+				<coordinates>-84.5162855, 42.7571277,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2200 POST OAK LANE LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.284 : FAGG CHARLES R III</name>
+			<Point>
+				<coordinates>-84.515905, 42.75687,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2517 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.217 : GOSSELIN MATTHEW</name>
+			<Point>
+				<coordinates>-84.515536, 42.756924,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2601 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.186 : UHL RUTH N</name>
+			<Point>
+				<coordinates>-84.5153132, 42.7568796,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2607 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.217 : WHITING JEREMY and AMBER</name>
+			<Point>
+				<coordinates>-84.5150589, 42.75692,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2613 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.201 : HOLLENBECK JEFFREY J</name>
+			<Point>
+				<coordinates>-84.5148015, 42.7568616,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2619 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.201 : SZOMBATI JOSEPH and KATHRYN</name>
+			<Point>
+				<coordinates>-84.5145834, 42.7568897,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2701 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.201 : GWINER GREGORY and HANSENS ALICE R</name>
+			<Point>
+				<coordinates>-84.51433, 42.756917,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2707 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.201 : WALSH KATHLEEN</name>
+			<Point>
+				<coordinates>-84.51409, 42.756914,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2713 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.201 : FERMAN BO J</name>
+			<Point>
+				<coordinates>-84.513847, 42.756914,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2719 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.201 : MYERS MAUREEN E</name>
+			<Point>
+				<coordinates>-84.513603, 42.756912,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2725 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.201 : ME-NSOPE NATHLIE</name>
+			<Point>
+				<coordinates>-84.513361, 42.756909,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2801 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.201 : PERSON JAMES E and HELEN L</name>
+			<Point>
+				<coordinates>-84.5131261, 42.7568638,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2807 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.201 : HILL SUSAN J</name>
+			<Point>
+				<coordinates>-84.512872, 42.756905,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2813 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.201 : HARNER PHILIP A and MICHAELINE</name>
+			<Point>
+				<coordinates>-84.512626, 42.756905,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2819 MONTEGO DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.198 : HINES SAMUEL C and GLORIA M</name>
+			<Point>
+				<coordinates>-84.5123937, 42.7568539,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2207 BOLLEY DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.181 : SWAN SANDRA A</name>
+			<Point>
+				<coordinates>-84.512027, 42.756986,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2213 BOLLEY DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.175 : CAMPBELL JAMES and JULIE</name>
+			<Point>
+				<coordinates>-84.51208, 42.757154,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2826 DARIEN DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.232 : FRANKS GARY and</name>
+			<Point>
+				<coordinates>-84.5121379, 42.757346,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2820 DARIEN DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.249 : GIDCUMB DAVID C and COURTNEY L</name>
+			<Point>
+				<coordinates>-84.512494, 42.75726,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2814 DARIEN DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.201 : EMMONS TRACY L</name>
+			<Point>
+				<coordinates>-84.512791, 42.7573633,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2806 DARIEN DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.201 : SENKO LON M and LINDA J</name>
+			<Point>
+				<coordinates>-84.513017, 42.757273,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2800 DARIEN DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.217 : SPENCER ANDY and TYNAN KAREN</name>
+			<Point>
+				<coordinates>-84.5133, 42.757407,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2720 DARIEN DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.217 : ANDERSON BETH E</name>
+			<Point>
+				<coordinates>-84.513538, 42.757278,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2714 DARIEN DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.217 : IMGRUND RICHARD and STEPHANIE</name>
+			<Point>
+				<coordinates>-84.513798, 42.75728,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2710 DARIEN DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.217 : LEINBACH CRAIG L and ABBY J</name>
+			<Point>
+				<coordinates>-84.5140569, 42.757281,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2700 DARIEN DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.217 : FOLKERS JOHN V and PAMELA A</name>
+			<Point>
+				<coordinates>-84.514317, 42.7572819,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2620 DARIEN DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.201 : BROWN NEIL A and EWING CANDACE M</name>
+			<Point>
+				<coordinates>-84.514563, 42.757283,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2614 DARIEN DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.201 : MURDOCH DOUGLAS G and STEPHANIE L</name>
+			<Point>
+				<coordinates>-84.5148111, 42.7573783,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2608 DARIEN DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.201 : JOHNSON GEORGIA A</name>
+			<Point>
+				<coordinates>-84.515044, 42.757288,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#homeOwner</styleUrl>
+			<name>2520 DARIEN DR LANSING, MI  48912 : Single Family : RESIDENTIAL : 0.217 : REED KARIE M and JOSHUA M</name>
+			<Point>
+				<coordinates>-84.51553, 42.75729,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+</kml>
